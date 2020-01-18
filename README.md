@@ -6,3 +6,7 @@
 ## Công nghệ sử dụng
 - Code thuần HTML, CSS, PHP
 - Jquery AJAX
+## Database
+![Database](https://github.com/huynm211/Web-ban-hang-PHP/blob/master/imgs/Database.jpg)
+## Chức năng hệ thống
+![Usecase](https://github.com/huynm211/Web-ban-hang-PHP/blob/master/imgs/Use_Case.jpg)
