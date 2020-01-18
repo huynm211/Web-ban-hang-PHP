@@ -10,3 +10,7 @@
 ![Database](https://github.com/huynm211/Web-ban-hang-PHP/blob/master/imgs/Database.jpg)
 ## Chức năng hệ thống
 ![Usecase](https://github.com/huynm211/Web-ban-hang-PHP/blob/master/imgs/Use_Case.jpg)
+## Website
+![Website](https://github.com/huynm211/Web-ban-hang-PHP/blob/master/imgs/website.PNG)
+## Trang Admin
+![AdminPage](https://github.com/huynm211/Web-ban-hang-PHP/blob/master/imgs/admin.PNG)
