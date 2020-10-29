@@ -2,7 +2,8 @@
 - **Trường Đại học Công Nghệ Thông Tin (UIT)**
 - **Lớp**: Phát triển ứng dụng Web (IS207.K11)
 - **Giảng viên hướng dẫn**: Vũ Minh Sang
-- **Sinh viên thực hiện**: Nguyễn Minh Huy - 15520304
+- **Sinh viên thực hiện**: Nguyễn Minh Huy  15520304
+                           Trần Quốc Dũng   16520263 
 ## Công nghệ sử dụng
 - Code thuần HTML, CSS, PHP
 - Jquery AJAX
